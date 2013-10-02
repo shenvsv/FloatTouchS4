@@ -9,7 +9,7 @@ add
 </intent-filter>
 in manifest
 
-findViewById(R.id.layout2).setOnHoverListener(new OnHoverListener() {
+                findViewById(R.id.layout2).setOnHoverListener(new OnHoverListener() {
 			
 			@Override
 			public boolean onHover(View v, MotionEvent event) {
